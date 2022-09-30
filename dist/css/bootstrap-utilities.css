@@ -11,7 +11,7 @@
 }
 
 .text-bg-primary {
-  color: #000 !important;
+  color: #fff !important;
   background-color: RGBA(61, 139, 253, var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -21,22 +21,22 @@
 }
 
 .text-bg-success {
-  color: #000 !important;
+  color: #fff !important;
   background-color: RGBA(71, 159, 118, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-info {
-  color: #000 !important;
-  background-color: RGBA(61, 213, 243, var(--bs-bg-opacity, 1)) !important;
+  color: #fff !important;
+  background-color: RGBA(13, 202, 240, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-warning {
-  color: #000 !important;
-  background-color: RGBA(255, 205, 57, var(--bs-bg-opacity, 1)) !important;
+  color: #fff !important;
+  background-color: RGBA(253, 152, 67, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-danger {
-  color: #000 !important;
+  color: #fff !important;
   background-color: RGBA(227, 93, 106, var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -47,14 +47,14 @@
 
 .text-bg-dark {
   color: #fff !important;
-  background-color: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important;
+  background-color: RGBA(52, 58, 64, var(--bs-bg-opacity, 1)) !important;
 }
 
 .link-primary {
   color: #3d8bfd !important;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #64a2fd !important;
+  color: #316fca !important;
 }
 
 .link-secondary {
@@ -68,28 +68,28 @@
   color: #479f76 !important;
 }
 .link-success:hover, .link-success:focus {
-  color: #6cb291 !important;
+  color: #397f5e !important;
 }
 
 .link-info {
-  color: #3dd5f3 !important;
+  color: #0dcaf0 !important;
 }
 .link-info:hover, .link-info:focus {
-  color: #64ddf5 !important;
+  color: #0aa2c0 !important;
 }
 
 .link-warning {
-  color: #ffcd39 !important;
+  color: #fd9843 !important;
 }
 .link-warning:hover, .link-warning:focus {
-  color: #ffd761 !important;
+  color: #ca7a36 !important;
 }
 
 .link-danger {
   color: #e35d6a !important;
 }
 .link-danger:hover, .link-danger:focus {
-  color: #e97d88 !important;
+  color: #b64a55 !important;
 }
 
 .link-light {
@@ -100,10 +100,10 @@
 }
 
 .link-dark {
-  color: #212529 !important;
+  color: #343a40 !important;
 }
 .link-dark:hover, .link-dark:focus {
-  color: #1a1e21 !important;
+  color: #2a2e33 !important;
 }
 
 .ratio {
